@@ -1,6 +1,2 @@
-# test
-This is just a test for testing all my clients
-Trying to push from work and home. This really is just a junk repository 
-
-## new
-THis is just an update to see if i can push
+# test repo
+This is a junk repo and this branch is just for the web page in github pages. 
